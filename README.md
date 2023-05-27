@@ -12,7 +12,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Work%20Hard;Dream%20Big&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm an Embedded Software Engineer 
+- 🏢 I'm an Embedded Software Engineer trainee 
 - 👨‍💻 As an Engineering Student , I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with C , C++ , Python ,computer Architecutre ,ARM ,communication protocols,Automotive and Embedded Linux, or anything related to Embedded systems .
 - ⚡ Fun Fact: I am a big fan of one piece anime. 
